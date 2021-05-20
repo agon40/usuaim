@@ -45,7 +45,7 @@
    
 
      <div class="footer">
-        <img src="icons8-whatsapp (3).gif"  width="4%"hspace="5%" vspace="5%" alt="" href="https://wa.me/996702557302">
+         <a href="https://wa.me/996702557302"> <img src="icons8-whatsapp (3).gif"  width="4%"hspace="5%" vspace="5%" alt=""></a>
         <img src="icons8-app.gif"  width="4%"  hspace="5%" vspace="5%" alt="" href="https://web.telegram.org/#/im?p=u777000_15581332731408403846">
         <img src="icons8-pinterest.gif"  width="4%"   hspace="5%" vspace="5%" alt="">
         <img src="icons8-значки-facebook.gif"  width="4%"   hspace="5%" vspace="5%" alt="">
